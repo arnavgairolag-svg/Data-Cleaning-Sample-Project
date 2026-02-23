@@ -1,0 +1,11 @@
+Order_ID,Customer_Name,City,Order_Amount,Discount,Payment_Mode
+101,Amit,Delhi,2500.0,5.0,UPI
+102,Riya,Mumbai,3000.0,,Card
+103,Amit,Delhi,,10.0,UPI
+104,,Delhi,4500.0,5.0,Cash
+105,Sohan,,2000.0,,UPI
+106,Riya,Mumbai,3000.0,10.0,
+107,Meena,Pune,1500.0,0.0,Cash
+108,Amit,Delhi,,5.0,Card
+109,,Pune,2200.0,,UPI
+110,Sohan,,2000.0,0.0,
